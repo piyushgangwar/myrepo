@@ -1,6 +1,11 @@
 #include <QCoreApplication>
 #include <QDebug>
+
 void bubblesort(){
+    //code
+
+void quicksort(){
+    
     //code
 }
 
