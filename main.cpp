@@ -1,5 +1,8 @@
 #include <QCoreApplication>
 #include <QDebug>
+void quicksort(){
+    
+}
 
 int main(int argc, char *argv[]) {
     QCoreApplication a(argc, argv);
