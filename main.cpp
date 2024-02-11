@@ -13,6 +13,10 @@ void mergesort(){
     //code
 }
 
+void insertionsort(){
+
+    //code
+}
 int main(int argc, char *argv[]) {
     QCoreApplication a(argc, argv);
     qDebug() << "Hello World!";
